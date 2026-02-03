@@ -20,11 +20,11 @@ A modern, responsive task management dashboard built with React and Vite.
 ## ⚙️ Environment Variables
 Create a `.env` file in the root directory:
 ```env
-VITE_API_URL=http://localhost:5000/api/v1
+VITE_API_URL=https://primetrade-server-ramanarayana.vercel.app/
 ```
 
 ## 📦 Installation & Setup
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://primetrade-server-ramanarayana.vercel.app/`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Build for production: `npm run build`
